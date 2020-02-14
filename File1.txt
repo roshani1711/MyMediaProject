@@ -1,8 +1,9 @@
 class Hello{
 
-public void add(int a, b)
+public  static void add(int a, b)
+
 {
-sysout("New Changes added to file");
+sysout("Addition");
 
 }
 While(i>0)
