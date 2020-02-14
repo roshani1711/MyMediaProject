@@ -1,6 +1,6 @@
 class Hello{
 
-public  static void add(int a, b)
+public  static void add(int a, b, c)
 
 {
 sysout("Addition");
@@ -15,10 +15,10 @@ Sysout("14thfeb changes");
 public static void main (String args[])
 {
  Hello H = new Hello();
- H.add(1,2);
+ H.add(1,2,3);
 System.out.println("Conflict....");
 
-System.out.println("Welcome to git")
+System.out.println("Conflicts ....2")
 }
 
 
