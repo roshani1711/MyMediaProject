@@ -1,6 +1,6 @@
 class Hello{
 
-public void add()
+public void add(int a, b)
 {
 sysout("New Changes added to file");
 
@@ -13,7 +13,9 @@ Sysout("14thfeb changes");
 
 public static void main (String args[])
 {
-System.out.println("Hello Git");
+ Hello H = new Hello();
+ H.add(1,2);
+System.out.println("Conflict....");
 
 System.out.println("Welcome to git")
 }
