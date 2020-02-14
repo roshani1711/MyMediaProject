@@ -10,6 +10,9 @@ While(i>0)
 
 System.out.println("Conflict03: While loop");
 
+System.out.println("Change2");
+
+
 {
 Sysout("14thfeb changes");
 
