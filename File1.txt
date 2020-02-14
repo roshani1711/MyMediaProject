@@ -5,9 +5,11 @@ public  static void add(int a, b, c)
 {
 sysout("Addition");
 
+System.out.println("Change1");
+
 }
 While(i>0)
-
+s
 System.out.println("Conflict03: While loop");
 
 System.out.println("Change2");
