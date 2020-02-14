@@ -2,8 +2,10 @@ class Hello{
 
 public void add()
 {
-sysout("new changes added");
+sysout("New Changes added to file");
+
 }
+While(i>0)
 
 
 public static void main (String args[])
@@ -12,5 +14,6 @@ System.out.println("Hello Git");
 
 System.out.println("Welcome to git")
 }
+
 }
 
